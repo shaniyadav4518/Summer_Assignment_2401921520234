@@ -1,4 +1,4 @@
-// AdultUser class implementing LibraryUser interface
+
 public class AdultUser implements LibraryUser {
 
     int age;
